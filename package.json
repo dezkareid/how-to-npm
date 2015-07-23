@@ -1,0 +1,23 @@
+{
+  "name": "@dezkareid/how-to-npm",
+  "version": "1.0.0",
+  "description": "Hola",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Joel Humberto Gómez Paredes",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dezkareid/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dezkareid/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/dezkareid/how-to-npm#readme"
+}
